@@ -2,7 +2,6 @@
 #include "LSMesh.h"
 #include <mkl.h>
 #include <fstream>
-#include <DirectXMath.h>
 
 
 
